@@ -45,3 +45,4 @@ I am efficient in **front-end** and **back-end** development, and I am passionat
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/alissatroiano)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alissatroiano/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/alissamtroiano)
+[![Email](https://img.shields.io/badge/-Email-3e91a3?style=for-the-badge&logo=Minutemailer&logoColor=white)](mailto:alissatroiano@alissatroiano.com)
