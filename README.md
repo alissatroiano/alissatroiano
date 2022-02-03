@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alissa</h1>
 
-I'm a creative, results-driven full-stack software developer with experience participating in the full software development life-cycle, from planning to launch. Comfortable in Frontend and Backend development, I'm passionate about developing robust, full-stack applications that solve business needs.
+I'm a creative, results-driven full-stack software developer with experience participating in the full software development life-cycle, from planning to launch. Comfortable in Frontend and Backend development, I'm passionate about developing robust, full-stack applications that solve user needs.
 
 My experience includes working with a wide range of technologies, from Python and Django, to JavaScript and React. I possess practical knowledge of database design and development, and am comfortable working with SQL (PostgreSQL, SQLite3) and NoSQL databases (MongoDB). 
 
@@ -15,9 +15,11 @@ My experience includes working with a wide range of technologies, from Python an
   
 - 🌱 I’m currently learning **Typescript**
   
-- 👨‍💻 All of my projects are available at [https://github.com/alissatroiano](https://github.com/alissatroiano)
+- 👩‍💻 All of my projects are available at [https://github.com/alissatroiano](https://github.com/alissatroiano)
 
-- 💬 My top languages & technolgies are **Python, Django, Flask, SQL, HTML, CSS, JavaScript & jQuery**
+- 🔧 My top languages & technolgies are **Python, Django, Flask, SQL, HTML, CSS, JavaScript & jQuery**
+
+- 💬 Ask me about: **MVC Frameworks, agile development, version control**
 
 - 📫 How to reach me **alissatroiano@alissatroiano.com**
 
