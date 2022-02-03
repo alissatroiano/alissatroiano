@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alissa</h1>
-<h3 align="center">
-	I'm a creative, results-driven full-stack software developer with experience participating in the full software development life-cycle, from planning to launch. Comfortable in Frontend and Backend development, I'm passionate about developing robust, full-stack applications that solve business needs.
-</h3>
-<h3 align="center">	
+
+I'm a creative, results-driven full-stack software developer with experience participating in the full software development life-cycle, from planning to launch. Comfortable in Frontend and Backend development, I'm passionate about developing robust, full-stack applications that solve business needs.
+
 My experience includes working with a wide range of technologies, from Python and Django, to JavaScript and React. I possess practical knowledge of database design and development, and am comfortable working with SQL (PostgreSQL, SQLite3) and NoSQL databases (MongoDB). 
-</h3>
-<br>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=alissatroiano" alt="alissatroiano" /></a> </p>
 
