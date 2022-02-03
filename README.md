@@ -1,19 +1,29 @@
 <h1 align="center">Hi 👋, I'm Alissa</h1>
-<h3 align="center">A passionate full-stack developer from America</h3>
+<h3 align="center">
+	I'm a creative, results-driven full-stack software developer with experience participating in the full software development life-cycle, from planning to launch. Comfortable in Frontend and Backend development, I'm passionate about developing robust, full-stack applications that solve business needs.
+</h3>
+<h3 align="center">	
+My experience includes working with a wide range of technologies, from Python and Django, to JavaScript and React. I possess practical knowledge of database design and development, and am comfortable working with SQL (PostgreSQL, SQLite3) and NoSQL databases (MongoDB). 
+</h3>
+<br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=alissatroiano" alt="alissatroiano" /></a> </p>
 
-- 🔭 I’m currently working on [Ravenous](https://github.com/alissatroiano/Ravenous-App), a client-side React application that uses Yelp Fusion API to fetch local food establishment results based on user input.
+- 🔭 I’m currently working on: 
+
+  - [Ravenous](https://github.com/alissatroiano/Ravenous-App), a client-side React application that uses Yelp Fusion API to fetch local food establishment results based on user input.
   
-- 🌱 I’m currently learning **Angular & Typescript**
+  - [wEshare](https://github.com/alissatroiano/team-6-hackathon), a disappearing social media feed for workplace individuals that wants to talk about mental health and wellness **anonymously**.
+  
+- 🌱 I’m currently learning **Typescript**
   
 - 👨‍💻 All of my projects are available at [https://github.com/alissatroiano](https://github.com/alissatroiano)
 
-- 💬 Ask me about **Python, Django, Flask, SQL, HTML, CSS, JavaScript & jQuery**
+- 💬 My top languages & technolgies are **Python, Django, Flask, SQL, HTML, CSS, JavaScript & jQuery**
 
 - 📫 How to reach me **alissatroiano@alissatroiano.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/132gmf8ZrmH2agY5p3RZcSj0W7qWJRRhVNYWaob1hNZ8/edit?usp=sharing](https://docs.google.com/document/d/132gmf8ZrmH2agY5p3RZcSj0W7qWJRRhVNYWaob1hNZ8/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1gwDoL-B2xaVv7_EprCtmvDqjFWG8Vi8b5sfQbMkt0dk/edit?usp=sharing)
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alissatroiano&show_icons=true&locale=en&layout=compact" alt="alissatroiano" /></p>
