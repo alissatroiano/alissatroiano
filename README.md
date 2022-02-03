@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alissa</h1>
+<h1 align="center">Hello World 🤟🏻, I'm Alissa</h1>
 
 I'm a creative, results-driven full-stack software developer with experience participating in the full software development life-cycle, from planning to launch. Comfortable in Frontend and Backend development, I'm passionate about developing robust, full-stack applications that solve user needs.
 
