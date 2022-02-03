@@ -56,6 +56,12 @@ My experience includes working with a wide range of technologies, from Python an
 
 <h1 align="center">Connect with me:</h1>
 
+<div align="center">
+
+![Mr.Robot](assets/images/mrrobot.gif)
+
+</div>
+
 <p align="center">
 <a href="https://codepen.io/alissatroiano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alissatroiano" height="30" width="40" /></a>
 <a href="https://twitter.com/alissamtroiano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alissamtroiano" height="30" width="40" /></a>
