@@ -28,7 +28,8 @@ My experience includes working with a wide range of technologies, from Python an
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alissatroiano&show_icons=true&locale=en&layout=compact" alt="alissatroiano" /></p>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alissatroiano&" alt="alissatroiano" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alissatroiano&" alt="alissatroiano" />
+</p>
 
 ***
 
@@ -62,16 +63,19 @@ My experience includes working with a wide range of technologies, from Python an
 
 </div>
 
-<p align="center">
+<div align="center">
+
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/alissatroiano)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alissatroiano/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/alissamtroiano)
+[![Email](https://img.shields.io/badge/-Email-3e91a3?style=for-the-badge&logo=Minutemailer&logoColor=white)](mailto:alissatroiano@alissatroiano.com)
+</div>
+<h2 align="center">You can also find me:</h2>
+<div align="center">
 <a href="https://codepen.io/alissatroiano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alissatroiano" height="30" width="40" /></a>
-<a href="https://twitter.com/alissamtroiano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alissamtroiano" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alissatroiano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alissatroiano/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/alissa-troiano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alissa-troiano" height="30" width="40" /></a>
 <a href="https://kaggle.com/alissatroiano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alissatroiano" height="30" width="40" /></a>
 <a href="https://instagram.com/t3chsavage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t3chsavage" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/alissatroiano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alissatroiano" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/alissatroiano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alissatroiano" height="30" width="40" /></a>
-</p>
-<br>
-
-
+</div>
