@@ -9,7 +9,7 @@ My experience includes working with a wide range of technologies, from Python, D
 
 - 💻 I’m currently working on: 
 
-  - [Hue](https://github.com/alissatroiano/Hue) an online marketplace where artists can display and sell arttwork digitally. 
+  - [Hue](https://github.com/alissatroiano/Hue) an online marketplace where artists can display and sell artwork digitally. 
   
   - [wEshare](https://github.com/alissatroiano/team-6-hackathon), a disappearing social media feed for workplace individuals that wants to talk about mental health and wellness **anonymously**.
 
@@ -17,7 +17,7 @@ My experience includes working with a wide range of technologies, from Python, D
 
 - 🏆 My favorite language is: **Python**
     
-- 👩‍💻 You can view all my projects on my [GitHub](https://github.com/alissatroiano)
+- 👩‍💻 You can view all my projects right here on my [GitHub](https://github.com/alissatroiano)
 
 - 💬 Ask me about: **MVC Frameworks, overseeing development projects, SCRUM master-ing, kan-ban boards, backend development, hackathons, version control, collaboration, pull request, issues, WIkis, frontend development, UX Design, user stories, user research, wireframes, troubleshooting, testing & debugging... to name a few :)**
 
