@@ -1,6 +1,6 @@
 <h1 align="center">Hello World 🤟🏻, I'm Alissa</h1>
 
-I'm a creative, results-driven full-stack software developer with experience participating in the full software development life-cycle, from planning to launch. Agile in both front and backend development, I work with agility and passion to develop effective, full-stack software applications.
+I'm a creative, results-driven full-stack software developer with experience participating in the full software development life-cycle, from planning to launch. Skillful in both frontend and backend development, I work with agility and passion to develop effective, full-stack software applications.
 
 My experience includes working with a wide range of technologies, from Python and Django, to JavaScript and React. I possess practical knowledge of database design and development, and am comfortable working with SQL (PostgreSQL, SQLite3) and NoSQL databases (MongoDB). 
 
