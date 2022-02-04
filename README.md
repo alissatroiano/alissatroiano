@@ -7,9 +7,6 @@ My experience includes working with a wide range of technologies, from Python an
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=alissatroiano" alt="alissatroiano" /></a> </p>
 
--🇦🇱🏴󠁧󠁢󠁥󠁮󠁧󠁿 I’m currently working on: 
-
-
 - 💻 I’m currently working on: 
 
   - [Hue](https://github.com/alissatroiano/Hue) an online marketplace where artists can display and sell arttwork digitally. 
