@@ -2,7 +2,7 @@
 
 I'm a creative, results-driven full-stack software developer with experience participating in the full software development life-cycle, from planning to launch. Skillful in both frontend and backend development, I work with agility and passion to develop effective, full-stack software applications.
 
-My experience includes working with a wide range of technologies, from Python and Django, to JavaScript and React. I possess practical knowledge of database design and development, and am comfortable working with SQL (PostgreSQL, SQLite3) and NoSQL databases (MongoDB). 
+My experience includes working with a wide range of technologies, from Python, Django and Flask, to HTML, CSS, JavaScript, jQuery, NodeJS and React. I possess practical knowledge of database design and development, and am comfortable working with SQL (PostgreSQL, SQLite3) and NoSQL databases (MongoDB). 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=alissatroiano" alt="alissatroiano" /></a> </p>
@@ -19,11 +19,11 @@ My experience includes working with a wide range of technologies, from Python an
     
 - 👩‍💻 You can view all my projects on my [GitHub](https://github.com/alissatroiano)
 
-- 💬 Ask me about: **MVC Frameworks, overseeing development projects, SCRUM master-ing, kan-ban boards, backend development, hackathons, version control, collaboration, pull request, issues, WIkis, frontend development, UX Design, user stories, user research, wireframes, troubleshooting, testing & debugging... to name a few :) **
-
-- 📫 How to reach me **alissatroiano@alissatroiano.com**
+- 💬 Ask me about: **MVC Frameworks, overseeing development projects, SCRUM master-ing, kan-ban boards, backend development, hackathons, version control, collaboration, pull request, issues, WIkis, frontend development, UX Design, user stories, user research, wireframes, troubleshooting, testing & debugging... to name a few :)**
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1gwDoL-B2xaVv7_EprCtmvDqjFWG8Vi8b5sfQbMkt0dk/edit?usp=sharing)
+
+- 📫 How to reach me **alissatroiano@alissatroiano.com**
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alissatroiano&show_icons=true&locale=en&layout=compact" alt="alissatroiano" /></p>
