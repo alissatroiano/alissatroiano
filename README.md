@@ -9,9 +9,9 @@ My experience includes working with a wide range of technologies, from Python, D
 
 - 💻 I’m currently working on: 
 
-  - [Hue](https://github.com/alissatroiano/Hue) an online marketplace where artists can display and sell artwork digitally. 
-  
-  - [wEshare](https://github.com/alissatroiano/team-6-hackathon), a disappearing social media feed for workplace individuals that wants to talk about mental health and wellness **anonymously**.
+  - [Business Analysis Project](https://github.com/Code-Institute-Community/business-analysis-project) - A Collaborative Open-Source Project to put regional Irish IT businesses into clusters based on their services/products. 
+
+  -  [Hue](https://github.com/alissatroiano/Hue) - A digital art store. I am currently extending the database, so it will be an online marketplace that artists can use to sell their work. 
 
 - 🔧 My top languages & technolgies are **Python, Django, Flask, SQL, HTML, CSS, JavaScript & jQuery**
 
