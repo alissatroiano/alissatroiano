@@ -1,9 +1,11 @@
-<h1 align="center">Hello World 🤟🏻, I'm Alissa</h1>
-
-I'm a creative, results-driven full-stack software developer with experience participating in the full software development life-cycle, from planning to launch. Skillful in both frontend and backend development, I work with agility and passion to develop effective, full-stack software applications.
-
-My experience includes working with a wide range of technologies, from Python, Django and Flask, to HTML, CSS, JavaScript, jQuery, NodeJS and React. I possess practical knowledge of database design and development, and am comfortable working with SQL (PostgreSQL, SQLite3) and NoSQL databases (MongoDB). 
-
+<h1 align="center">Hi 👋, I'm Alissa</h1>
+<h4 align="center">
+	I'm a creative, results-driven full-stack software developer with experience participating in the full software development life-cycle, from planning to launch. Comfortable in Frontend and Backend development, I'm passionate about developing robust, full-stack applications that solve business needs.
+</h4>
+<h4 align="center">	
+My experience includes working with a wide range of technologies, from Python and Django, to JavaScript and React. I possess practical knowledge of database design and development, and am comfortable working with SQL (PostgreSQL, SQLite3) and NoSQL databases (MongoDB). 
+</h4>
+<br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=alissatroiano" alt="alissatroiano" /></a> </p>
 
@@ -11,7 +13,7 @@ My experience includes working with a wide range of technologies, from Python, D
 
   - [Business Analysis Project](https://github.com/Code-Institute-Community/business-analysis-project) - A Collaborative Open-Source Project to put regional Irish IT businesses into clusters based on their services/products. 
 
-  -  [Hue](https://github.com/alissatroiano/Hue) - A digital art store. I am currently extending the database, so it will be an online marketplace that artists can use to sell their work. 
+  <!-- -  [Hue](https://github.com/alissatroiano/Hue) - A digital art store. I am currently extending the database, so it will be an online marketplace that artists can use to sell their work.  -->
 
 - 🔧 My top languages & technolgies are **Python, Django, Flask, SQL, HTML, CSS, JavaScript & jQuery**
 
