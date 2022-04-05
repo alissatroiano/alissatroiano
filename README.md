@@ -23,7 +23,7 @@ My experience includes working with a wide range of technologies, from Python an
 
 - 💬 Ask me about: **MVC Frameworks, overseeing development projects, SCRUM master-ing, kan-ban boards, backend development, hackathons, version control, collaboration, pull request, issues, WIkis, frontend development, UX Design, user stories, user research, wireframes, troubleshooting, testing & debugging... to name a few :)**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1gwDoL-B2xaVv7_EprCtmvDqjFWG8Vi8b5sfQbMkt0dk/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1eXbKgSVJNhwak2By_waY6u4FU75dcPKk/edit?usp=sharing&ouid=109585605301160502693&rtpof=true&sd=true)
 
 - 📫 How to reach me **alissatroiano@alissatroiano.com**
 
