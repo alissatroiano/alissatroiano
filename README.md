@@ -21,13 +21,11 @@ My experience includes working with a wide range of technologies, from Python an
 
 - I'm currently learning more about: **React** and **threeJS**
     
-- 👩‍💻 You can view all my projects right here on my [GitHub](https://github.com/alissatroiano)
+- 👩‍💻 You can view all my projects by checking out my 💼 [Portfolio](https://alissatroiano.github.io/portfolio/) or staying right here on my [GitHub](https://github.com/alissatroiano)
 
 - 💬 Ask me about: **MVC Frameworks, overseeing development projects, SCRUM master-ing, kan-ban boards, backend development, hackathons, version control, collaboration, pull request, issues, WIkis, frontend development, UX Design, user stories, user research, wireframes, troubleshooting, testing & debugging... to name a few :)**
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1eXbKgSVJNhwak2By_waY6u4FU75dcPKk/edit?usp=sharing&ouid=109585605301160502693&rtpof=true&sd=true)
-
-- Learn more about me by viewing my 💼 [Portfolio](https://alissatroiano.github.io/portfolio/)
 
 - 📫 How to reach me **alissatroiano@alissatroiano.com**
 
