@@ -18,6 +18,8 @@ My experience includes working with a wide range of technologies, from Python an
 - 🔧 My top languages & technolgies are **Python, Django, Flask, SQL, HTML, CSS, JavaScript & jQuery**
 
 - 🏆 My favorite language is: **Python**
+
+- I'm currently learning more about: **React** and **threeJS**
     
 - 👩‍💻 You can view all my projects right here on my [GitHub](https://github.com/alissatroiano)
 
@@ -25,7 +27,7 @@ My experience includes working with a wide range of technologies, from Python an
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1eXbKgSVJNhwak2By_waY6u4FU75dcPKk/edit?usp=sharing&ouid=109585605301160502693&rtpof=true&sd=true)
 
-- Checkout my 💼 [Portfolio](https://alissatroiano.github.io/portfolio/)
+- Learn more about me by viewing my 💼 [Portfolio](https://alissatroiano.github.io/portfolio/)
 
 - 📫 How to reach me **alissatroiano@alissatroiano.com**
 
