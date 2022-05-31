@@ -25,6 +25,8 @@ My experience includes working with a wide range of technologies, from Python an
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1eXbKgSVJNhwak2By_waY6u4FU75dcPKk/edit?usp=sharing&ouid=109585605301160502693&rtpof=true&sd=true)
 
+- Checkout my 💼 [Portfolio](https://alissatroiano.github.io/portfolio/)
+
 - 📫 How to reach me **alissatroiano@alissatroiano.com**
 
 <p align="center">
