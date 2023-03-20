@@ -9,12 +9,6 @@ My experience includes working with a wide range of technologies, from Python an
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=alissatroiano" alt="alissatroiano" /></a> </p>
 
-- 💻 I’m currently working on: 
-
-  - [Business Analysis Project](https://github.com/Code-Institute-Community/business-analysis-project) - A Collaborative Open-Source Project to put regional Irish IT businesses into clusters based on their services/products. 
-
-  <!-- -  [Hue](https://github.com/alissatroiano/Hue) - A digital art store. I am currently extending the database, so it will be an online marketplace that artists can use to sell their work.  -->
-
 - 🔧 My top languages & technolgies are **Python, Django, Flask, SQL, HTML, CSS, JavaScript & jQuery**
 
 - 🏆 My favorite language is: **Python**
