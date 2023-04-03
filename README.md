@@ -9,7 +9,7 @@ My experience includes working with a wide range of technologies, from Python an
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=alissatroiano" alt="alissatroiano" /></a> </p>
 
-- 🔧 My top languages & technolgies are **Python, Django, Flask, SQL, HTML, CSS, JavaScript & jQuery**
+- 🔧 My top languages & technolgies are **Python, Django, Flask, SQL, HTML, CSS, and JavaScript**
 
 - 🏆 My favorite language is: **Python**
 
