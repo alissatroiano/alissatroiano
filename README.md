@@ -9,19 +9,18 @@ My experience includes working with a wide range of technologies, from Python an
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=alissatroiano" alt="alissatroiano" /></a> </p>
 
-- 🔧 My top languages & technolgies are **Python, Django, Flask, SQL, HTML, CSS, and JavaScript**
+- 🔧 My top languages & technolgies are **Python, Django, Flask, SQL, HTML, CSS, JavaScript, ReactJS**
 
 - 🏆 My favorite language is: **Python**
 
-- I'm currently learning more about: **React** and **threeJS**
+- I'm currently learning more about: **Typescript**
     
 - 👩‍💻 You can view all my projects by checking out my 💼 [Portfolio](https://alissatroiano.github.io/portfolio/) or staying right here on my [GitHub](https://github.com/alissatroiano)
 
 - 💬 Ask me about: **MVC Frameworks, overseeing development projects, SCRUM master-ing, kan-ban boards, backend development, hackathons, version control, collaboration, pull request, issues, WIkis, frontend development, UX Design, user stories, user research, wireframes, troubleshooting, testing & debugging... to name a few :)**
 
 - 📄 Know about my experiences:
-  - [Resume (Web)](https://docs.google.com/document/d/17FFZJQnu9peYzHdRzYZV2kGqM1ANNmwXBGjEqE864Ro/edit?usp=sharing)
-  - [Resume (PDF)](assets/images/Resume.pdf)
+  - [Resume](https://docs.google.com/document/d/111LQw3S9xpb1tge0Q7uQ2IZ2oRwpmuCT/edit?usp=sharing&ouid=109585605301160502693&rtpof=true&sd=true)
 
 - 📫 How to reach me **alissatroiano@alissatroiano.com**
 
