@@ -2,35 +2,22 @@
 <h4 align="center">
 	I'm a creative, results-driven full-stack software developer with experience participating in the full software development life-cycle, from planning to launch. Comfortable in Frontend and Backend development, I'm passionate about developing robust, full-stack applications that solve business needs.
 </h4>
-<h4 align="center">	
-My experience includes working with a wide range of technologies, from Python and Django, to JavaScript and React. I possess practical knowledge of database design and development, and am comfortable working with SQL (PostgreSQL, SQLite3) and NoSQL databases (MongoDB). 
-</h4>
-<br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-[https://github-profile-trophy.vercel.app/?username=alissatroiano](https://alissatroiano.com/index.html#contact)
+
 	
-- 🔧 My top languages & technolgies are **Python, Django, Flask, SQL, HTML, CSS, JavaScript, ReactJS**
+- 🔧 My top languages & frameworks are **TypeScript, React, Python, Django, Flask, SQL, HTML, CSS,**
 
 - 🏆 My favorite language is: **Python**
 
-- I'm currently learning more about: **Typescript**
+- I'm currently learning more about: **NextJS and Angular**
     
 - 👩‍💻 You can view all my projects by checking out my 💼 [Portfolio](https://alissatroiano.github.io/portfolio/) or staying right here on my [GitHub](https://github.com/alissatroiano)
 
-- 💬 Ask me about: **MVC Frameworks, overseeing development projects, SCRUM master-ing, kan-ban boards, backend development, hackathons, version control, collaboration, pull request, issues, WIkis, frontend development, UX Design, user stories, user research, wireframes, troubleshooting, testing & debugging... to name a few :)**
-
-- 📄 Know about my experiences:
-  - [Resume](https://docs.google.com/document/d/111LQw3S9xpb1tge0Q7uQ2IZ2oRwpmuCT/edit?usp=sharing&ouid=109585605301160502693&rtpof=true&sd=true)
-
-- 📫 How to reach me **alissatroiano@alissatroiano.com**
+- 💬 Ask me about: **Frontend Design, Frontend Development, Strategic Planning, Agile Practices, Modern UX/UI Design, Branding, Collaborative Version Control, SCRUM Master-ing, Version Control, Hackathons, AI Prompt Eningeering, AI Integrations... and more :)**
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alissatroiano&show_icons=true&locale=en&layout=compact" alt="alissatroiano" /></p>
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alissatroiano&" alt="alissatroiano" />
-</p>
 
-***
+<hr>
 
 <h1 align="center"> Languages and Tools</h1>
 
