@@ -3,10 +3,9 @@
 	I'm a creative, results-driven full-stack software developer with a frontend focus and a knack for planning, executing & maintaining effective software solutions that solve user & business needs.
 </h4>
 
-<h5>More about me:</h5>
+<h5>About me:</h5>
 
-- 🔧 My top languages & frameworks are **TypeScript, React, Bootstrap, Python, Django, Flask, SQL, HTML, CSS,**
-- 🎨 I'm super creative when it comes to: **User Experience & User Interface Design & Development**
+- 🎨 I'm really great at: **User Experience Design & User Interface Development**
 - 💡 I'm known for: **Ideation, Leading Teams during Hackathon, and meaningful Software Design**
 - 😍 I just love **Animations!**
 - 👩‍🎓 I'm currently mastering **AI & AI Prompt Engineering**
