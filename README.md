@@ -16,8 +16,7 @@
 
 ***
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alissatroiano&show_icons=true&locale=en&layout=compact" alt="alissatroiano" /></p>
+![Chapa](https://chapa.thecreativetoken.com/u/alissatroiano/badge.svg)
 
  *** 
 
